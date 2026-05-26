@@ -81,6 +81,7 @@ For proper functionality, the variable below should be the default value:
   --cfg-font-weight: 400;                           /* Main text weight */
   --cfg-text-primary: rgb(255, 255, 255);         /* Main text color */
   --cfg-text-secondary: rgba(255, 255, 255, 0.7); /* Secondary text color */
+font-family: 'Inter', 'Helvetica Neue', 'Segoe UI', Arial, sans-serif !important;
 
   --cfg-icon: rgb(255, 255, 255);                 /* Icon color */
   --cfg-accent: rgb(255, 255, 255);               /* Accent color for highlights */
